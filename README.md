@@ -1,42 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fareed</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | AI Automation Engineer | Building Enterprise Systems</h3>
+<h1 align="center">
+🚀 Mohamed Fareed
+</h1>
+
+<h3 align="center">
+Founder Mindset • AI Automation Engineer • Backend Architect
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+SaaS+Platforms;AI+Automation+Engineer;n8n+%2B+LLMs;Enterprise+Backend+Architect;Startup+Builder&center=true&width=550&height=50">
+</p>
 
 ---
 
-## 🧠 About Me
+## 👑 Who Am I
 
-- 💻 I build **enterprise-level backend systems** (NOT just CRUD 😏)
-- 🧠 Specialized in **scalable architecture & multi-tenant systems**
-- 🤖 Working with **AI automation using n8n + LLMs**
-- 🏥 Currently building **Enterprise Clinic Management System**
-- ⚡ Obsessed with performance, security & clean architecture
+I’m not just a developer.  
+I build **systems that scale, automate, and solve real-world problems.**
 
----
-
-## 🚀 Tech Stack
-
-### 🧩 Backend
-- Node.js • Express.js • MongoDB • Mongoose  
-- Redis • Socket.IO • JWT Auth • REST APIs  
-
-### 🎨 Frontend
-- React.js • Vite • TailwindCSS • Framer Motion  
-
-### 🤖 AI & Automation
-- n8n • LangChain • Ollama • LLM Agents  
-
-### ☁️ Cloud & DevOps
-- AWS • Azure • DigitalOcean  
-- Docker (learning) • Nginx • CI/CD  
+- 🧠 Backend Architect (MERN + Enterprise Systems)
+- 🤖 AI Automation Engineer (n8n + LLMs)
+- 🏗️ SaaS Builder (Multi-Tenant Systems)
+- 🚀 Future Tech Founder
 
 ---
 
-## 🧠 System Design Mindset
+## 🏗️ What I’m Building
+
+### 🏥 Enterprise Clinic Management System (SaaS)
+
+- Multi-Tenant Architecture (Each client = separate DB)
+- Advanced RBAC system
+- Audit logs for every action
+- Smart booking & medical records
+- Accounting + insurance system
+- AI-ready infrastructure
+
+---
+
+## ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind,js,ts,redis,docker,aws,azure,nginx" />
+
+</p>
+
+---
+
+## 🧠 Engineering Philosophy
 
 ```txt
-✔ Multi-Tenant Architecture
-✔ Role-Based Access Control (RBAC)
-✔ Advanced Security (JWT + Cookies + Rate Limit)
-✔ Audit Logs & Monitoring
-✔ Scalable Backend Design
-✔ Clean Code & Modular Structure
+✔ Think in systems, not pages
+✔ Build for scale from day one
+✔ Security is not optional
+✔ Logs = Power
+✔ Clean Architecture > Fast Hacks
+✔ Automate everything possible
